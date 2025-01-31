@@ -1,8 +1,8 @@
 # This one will be in vim
 
-Copy to q register ("qy"):
+Copy to q register ("qy):
 ~~~
-gg0f €ý5eGx:sortGopOVggx:sortOP}ddddGexggep}dG:%s/   /-Vgg:.!bc:%s/-/:%s/\n/+A€kb:.!bc
+gg0f â‚¬Ã½5eGx:sortGopOVggx:sortOP}ddddGexggep}dG:%s/   /-Vgg:.!bc:%s/-/:%s/\n/+Aâ‚¬kb:.!bc
 ~~~
 
 Run in input txt file:
@@ -19,7 +19,7 @@ gg 0
 
 Remove second column:
 ~~~
-f €ý5  e G x
+f â‚¬Ã½5  e G x
 ~~~
 
 Sort it:
@@ -69,7 +69,7 @@ Change new lines with pluses:
 
 Remove plus in the end of the line:
 ~~~
-A €kb 
+A â‚¬kb 
 ~~~
 
 Calculate the sum:
